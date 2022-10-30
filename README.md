@@ -2,5 +2,13 @@
 php-xapian library compilation procedure for php 7.4
 
 ## Prerequisites for instalation
-libxapian30 - Search engine library
+**libxapian30 - Search engine library
+
+### Install via apt
+the following command must be executed with su or sudo permission
+apt install libxapian
+
+### Install package from source
 https://debian.pkgs.org/11/debian-main-arm64/libxapian30_1.4.18-3_arm64.deb.html
+
+## Install deb file
