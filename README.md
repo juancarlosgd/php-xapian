@@ -13,7 +13,7 @@ https://debian.pkgs.org/11/debian-main-arm64/libxapian30_1.4.18-3_arm64.deb.html
 
 ## Install deb file - Install and configure the xapian.so library in php
 1. Clone this repository
-2. Execute deb file for php 7.4 with su or sudo permision. sudo ./php7-xapian_1.4.18-1_amd64.deb
+2. Execute deb file for php 7.4 with su or sudo permision. sudo dpkg -i php7-xapian_1.4.18-1_amd64.deb
 3. reload php service
 
 ## Compile and install from source
