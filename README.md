@@ -7,7 +7,8 @@ php-xapian library compilation procedure for php 7.4 and debian 10 or newer. Thi
 libxapian30 - Search engine library
 
 ### Install via apt
-the following command must be executed with su or sudo permission
+The following command must be executed with su or sudo permission.
+
 apt install libxapian
 
 ### Install package from source
