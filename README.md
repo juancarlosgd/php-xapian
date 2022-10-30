@@ -1,4 +1,6 @@
 # php-xapian
+based on description document https://trac.xapian.org/wiki/FAQ/PHP%20Bindings%20Package
+
 php-xapian library compilation procedure for php 7.4 and debian 10 or newer. This procedure has been verified on debian 10 and 11.
 
 ## Prerequisites for instalation
